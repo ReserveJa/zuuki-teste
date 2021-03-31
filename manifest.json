@@ -1,6 +1,6 @@
 {
-    "name": "teste",
-    "short_name": "teste",
+    "name": "com_zuuki_demo",
+    "short_name": "com_zuuki_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
